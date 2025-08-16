@@ -1,0 +1,7 @@
+# ClansLegendaries default configuration
+breezeblade-infinite-charge: false
+breezeblade-velocity: 0.66
+scepter-nonplayer-target: true
+hyper-damage-delay: 7
+hyper-damage: 4
+scepter-damage: 11

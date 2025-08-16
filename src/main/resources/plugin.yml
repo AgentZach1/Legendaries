@@ -1,0 +1,20 @@
+name: ClansLegendaries
+main: me.libraryaddictfan.ClansLegendaries
+version: 1.5
+authors: [elsnack_5, libraryaddictfan, Mineplex(idea), Awesome Power Cat(Idea)]
+api-version: 1.21
+commands:
+   legendary:
+      description: Gives a Legendary
+      usage: /<command>
+      aliases: [leg]
+   legendaries:
+      description: Sets options for the plugin
+      usage: /<command>
+permissions:
+  clanslegendaries.legendary-command.use:
+    description: Allows using the /legendary command.
+    default: true
+  clanslegendaries.legendary-command.giveLegendary:
+    description: Allows giving a legendary item to another player.
+    default: op
